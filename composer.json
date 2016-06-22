@@ -1,0 +1,13 @@
+{
+    "name": "jnjxp/florm",
+    "description": "Flat File ORM",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jake johns",
+            "email": "jake@jakejohns.net"
+        }
+    ],
+    "require": {}
+}
